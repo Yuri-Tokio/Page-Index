@@ -8,6 +8,7 @@
 .about .about__left {
   max-width: 40rem;
   flex: 1;
+  text-align: center;
 }
 
 .about .about__left p {
@@ -20,6 +21,7 @@
 
 .about .about__left ul li {
   display: inline-block;
+  text-align: center;
 }
 
 .about .about__left ul li a {
